@@ -1,1 +1,2 @@
 place(1, "Barracks", Vector3.new(273.625,-127.278,-73.840), 0, 325)
+place(1, "Barracks", Vector3.new(281.477,-127.278,-71.705), 0, 800)
