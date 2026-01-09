@@ -1,4 +1,4 @@
-place(0, "Barracks", Vector3.new(-53, 20.359722137451172, 200), 0, 325)
+place(0, "BARRACKS", Vector3.new(-53, 20.359722137451172, 200), 0, 325)
 upgrade(1, 2, 1, 125)
 upgrade(1, 2, 1, 250)
 upgrade(1, 2, 1, 3850)
