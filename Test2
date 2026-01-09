@@ -1,4 +1,4 @@
-place(1000, "Barracks", Vector3.new(-68.745, 17.3597, 99.154), 0, 325)
+place(100000, "Barracks", Vector3.new(-68.745, 17.3597, 99.154), 0, 325)
 place(1000, "Barracks", Vector3.new(-68.745, 17.3597, 99.154), 0, 325)
 place(1000, "Barracks", Vector3.new(-68.745, 17.3597, 99.154), 0, 325)
 place(1000, "Barracks", Vector3.new(-68.745, 17.3597, 99.154), 0, 325)
